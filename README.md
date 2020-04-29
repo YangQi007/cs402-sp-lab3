@@ -24,9 +24,9 @@ For this lab, you will implement a program that reads data from a file and
 * 3.basicstats.exe large.txt
 
 ## Features
-1.compute mean of the data set
-2.compute standard deviation of the data set
-3.compute median of the data set
+* 1.compute mean of the data set
+* 2.compute standard deviation of the data set
+* 3.compute median of the data set
 
 ## Status
 This project is: finished.
