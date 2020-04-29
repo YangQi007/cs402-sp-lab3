@@ -13,6 +13,7 @@ For this lab, you will implement a program that reads data from a file and
              computes some basic statistical analysis measures for the data set.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/60582494/80615498-55e1fd00-8a72-11ea-8b6d-6fe0e00b7270.png)
 
 
 ## Setup
